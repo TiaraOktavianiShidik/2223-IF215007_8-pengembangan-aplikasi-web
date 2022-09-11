@@ -40,4 +40,5 @@ name_tag | string | sport
 color | string | red
 
 ## UX Wireframe
-
+![Untitled35_20220912002334](https://user-images.githubusercontent.com/76018503/189540850-562aa22b-c120-4ebf-b09e-38f60b7334c4.png)
+![Untitled36_20220912002314](https://user-images.githubusercontent.com/76018503/189540867-d12c982c-d3c3-406c-8dff-50da1b80f50f.png)
