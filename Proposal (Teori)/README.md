@@ -22,14 +22,7 @@ ID | integer | 222
 username | string | okta
 password | string | via123
 
-### Session Timer
-Atribut|Tipe Data|Contoh
----|---|---
-ID | integer | 12
-title | string | jogging
-tags | string | sport
-
-### Session Manual
+### Session
 Atribut|Tipe Data|Contoh
 ---|---|---
 ID | integer | 12
