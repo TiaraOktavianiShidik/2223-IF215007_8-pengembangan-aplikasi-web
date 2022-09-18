@@ -1,0 +1,253 @@
+body, html {
+    background-color: #ffffff;
+    font-family: udemy sans,sf pro text,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 400;
+    line-height: 1.4;
+    font-size: 0.95rem;
+    color: #1c1d1f;
+}
+
+#menu {
+    display: none;
+}
+
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+#navigasi {
+    background-color: #ffffff;
+    box-shadow: 5px 0px 5px rgba(0, 0, 0, 0.377);
+    padding: 20px 20px 20px 20px;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+#navigasi a {
+    color: black;
+    text-decoration: none;
+}
+
+#navigasi a:hover {
+    color: purple;
+}
+
+.navigasi-tengah {
+    margin-left: 20px;    
+    margin-right: 20px;
+}
+
+.navigasi-tengah a {
+    margin-left: 20px;
+}
+
+button {
+    margin-left: 20px;
+}
+
+button img {
+    height: 15px;
+    width: 15px;
+}
+
+input {
+    width: 420px;
+}
+
+#navigasi-cart {
+    margin-right: 20px;
+}
+
+#navigasi-kanan {
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+.login {
+    background: #ffffff;
+    border: 1px solid black;
+    padding: 8px 16px;
+}
+
+.login:hover {
+    background: rgb(214, 213, 213);
+}
+
+.signup {
+    background: black;
+    padding: 8px 16px;
+    border: 1px solid black;
+    margin-left: 5px;
+}
+
+.login b {
+    color: black;
+}
+
+.signup b {
+    color: #ffffff;
+}
+
+#navigasi-kanan-language {
+    background: #ffffff;
+    border: 1px solid black;
+    padding: 6px;
+    margin-top: -10px;
+    margin-left: 10px;
+}
+
+#navigasi-kanan-language:hover {
+    background: rgb(214, 213, 213);
+}
+
+#navigasi-kanan-language img {
+    height: 20px;
+    width: 20px;
+}
+
+.headline {
+    max-width: 80rem;
+    font-family: SuisseWorks,Georgia,Times,times new roman,serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 700;
+    font-size: 1.4rem;
+    line-height: 1.25;
+    letter-spacing: -.05rem;
+    margin-left: 30px;
+}
+
+.headline-sub {
+    margin-top: .8rem;
+    font-family: udemy sans,sf pro text,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 400;
+    line-height: 1.4;
+    font-size: 1.2rem;
+}
+
+.headline-tablist a {
+    margin-top: .8rem;
+    font-family: udemy sans,sf pro text,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 600;
+    line-height: 1.4;
+    font-size: 1.1rem;
+    text-decoration: none;
+    color: rgb(97, 97, 97); 
+    margin-left: 35px;
+}
+
+.headline-tablist a:hover {
+    color: black;
+}
+
+#banner a img {
+    width: 1315px;
+
+}
+
+#content-box {   
+    width: 1220px; 
+    margin-left: 30px;
+    margin-top: 20px;
+    padding: 0px 30px 30px 30px;
+    border: 1px solid rgb(128, 128, 128);
+}
+
+#content-box-img {
+    border-spacing: 50px;
+    display: flex;
+    flex-direction: row;
+}
+
+#content-box-text h2 {
+    font-family: udemy sans,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -.02rem;
+    font-size: 1.7rem;
+}
+
+#content-box-text p {
+    font-family: udemy sans,sf pro text,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 400;
+    line-height: 1.4;
+    font-size: 1.2rem;
+    width: 1000px;
+}
+
+#content-box-img-1 {
+    font-family: udemy sans,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -.02rem;
+    font-size: 1.1rem;
+    display: flex;
+    flex-direction: column;
+}
+
+#content-box-img-2, #content-box-img-3, #content-box-img-4, #content-box-img-5{
+    font-family: udemy sans,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -.02rem;
+    font-size: 1.1rem;
+    padding-left: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+#content-box-img-1 a, #content-box-img-2 a, #content-box-img-3 a, #content-box-img-4 a, #content-box-img-5 a {
+    padding-top: 10px;
+    width: 230px;
+    text-decoration: none;
+    color: black;
+}
+
+@media only screen and (max-width: 600px) {
+    .navigasi-tengah, input,
+    #navigasi-kanan, #content-box-text, #content-box-img-2, #content-box-img-3, #content-box-img-4, #content-box-img-5, #headline-tablist-5, #headline-tablist-6, #headline-tablist-7{
+        display: none;
+    }
+
+    #menu {
+        display: block;
+    }
+
+    #navigasi-logo {
+        margin-left: 205px;
+    }
+
+    button {
+        background-color: #ffffff;
+        border: none;
+        margin-right: 20px;
+        margin-left: 160px;
+    }
+
+    button img {
+        width: 22px;
+        height: 22px;
+    }
+
+    #banner a img {
+        width: 600px;
+        height: 250px;
+    }
+
+    #content-box-img-1 img{
+        width: 400px; 
+        height: 250px;
+        padding-top: 30px;
+    }
+
+    #content-box-img-1 a {
+        width: 300px;
+    }
+
+    #content-box {
+        width: 450px;
+    }
+
+}
