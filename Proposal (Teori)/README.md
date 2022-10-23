@@ -1,4 +1,4 @@
-# Proposal : Time Tracker and Schedule
+# Proposal : Time Tracker
 
 ## Permasalahan
 - Mahasiswa merasa kesulitan dalam mengatur waktu belajar di tengah banyaknya distraksi dan jadwal kegiatan yang belum tersusun dengan baik.
@@ -25,11 +25,11 @@ password | string | via123
 Atribut|Tipe Data|Contoh
 ---|---|---
 ID | integer | 12
-title | string | jogging
+title | string | belajar web
 date | date | 11-09-2022
 session_start | time | 07:00:00
 session_end | time | 08:00:00
-category | string | sport
+category | string | study
 
 ### Category
 Atribut|Tipe Data|Contoh
