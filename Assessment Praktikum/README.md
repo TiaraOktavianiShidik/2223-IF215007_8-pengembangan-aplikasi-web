@@ -9,7 +9,7 @@ Javascript & Composer installation & hello world |
 PostgreSQL / MySQL | ![Screenshot (141)](https://user-images.githubusercontent.com/76018503/209044340-ce5c79c0-ec12-463d-9413-0e41e040fcc2.png)
 DBeaver installation DB connection | ![Screenshot (142)](https://user-images.githubusercontent.com/76018503/209045256-b713608a-2345-4aaf-99d5-b3aeaac9b6bc.png)
 MobaXterm installation & SSH connection | ![Screenshot (144)](https://user-images.githubusercontent.com/76018503/209047043-4c9e342c-4809-492e-8b3f-1f96163812f8.png)
-NodeJS & NPM installation, operation & hello world | ![Screenshot (145)](https://user-images.githubusercontent.com/76018503/209048747-2fd4f751-3c71-4a2c-a28d-3a85f574fe14.png)
+NodeJS & NPM installation, operation & hello world | ![Screenshot (145)](https://user-images.githubusercontent.com/76018503/209048747-2fd4f751-3c71-4a2c-a28d-3a85f574fe14.png) ![image](https://user-images.githubusercontent.com/76018503/209516511-8d9c3e79-9e4c-4407-99d6-05e19b96fcc1.png)
 Linux server operation |
 Nginx / Apache web server installation & operation |
 Cpanel operation |
