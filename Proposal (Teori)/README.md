@@ -7,10 +7,9 @@
 - Aplikasi yang dapat membantu untuk memantau berapa banyak waktu yang dapat dihabiskan untuk belajar, beristirahat, bermain, dll. sehingga dapat diketahui tingkat produktivitas kita setiap harinya.
 
 ## Use Case
-- User bisa melakukan registrasi dan login.
-- User bisa membuat *new session* baik secara otomatis dengan menggunakan timer ataupun secara manual dengan menentukan *session start* dan *session end*-nya.
+- User bisa membuat *new session* secara manual dengan menentukan *session start* dan *session end*-nya.
 - User bisa membuat kategori-kategori untuk mengkategorikan setiap *session*.
-- User bisa melihat statistik produktivitas per hari dalam seminggu ataupun sebulan.
+- User bisa mengikuti fitur challenge untuk menunjang produktivitas.
 
 ## Struktur Data
 
