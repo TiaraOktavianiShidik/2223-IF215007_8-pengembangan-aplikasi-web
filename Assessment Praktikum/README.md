@@ -17,9 +17,9 @@ Domain registration |
 HTML Responsive Layout with Media Query & Flexbox | ![image](https://user-images.githubusercontent.com/76018503/190881974-c3ae4026-ef19-4442-870c-0ca612bee4f3.png) ![FireShot Capture 002 - Udemy Web - ](https://user-images.githubusercontent.com/76018503/190882204-24fe87ac-b001-473c-ba21-f431817e7bd5.png)
 Javascript Data Transformation | ![image](https://user-images.githubusercontent.com/76018503/209898437-a114d48e-4b4c-4644-8921-08dba6757225.png) ![image](https://user-images.githubusercontent.com/76018503/209898902-ec4b44a1-737d-48cc-a39a-9d532dc5e6bd.png)
 Browser API - Event Handling, Local Storage, Element manipulation |
-HTTP GET & POST using Form Action and Fetch API |
+HTTP GET & POST using Form Action and Fetch API | ![image](https://user-images.githubusercontent.com/76018503/209904691-6c9ce950-2dda-4e95-8c5e-053296dbe374.png)
 Javascript DB - Dynamic Web Page |
-Javascript DB - Web Service |
+Javascript DB - Web Service | ![image](https://user-images.githubusercontent.com/76018503/209903752-6858afb8-9f4d-45bb-9cc8-7d25584f6e23.png)
 OOP-based Javascript Project using Composer |
 Deploy Javascript Project to Cpanel |
 HTML Responsive Layout with Bootstrap |
